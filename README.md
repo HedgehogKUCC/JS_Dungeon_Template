@@ -4,23 +4,19 @@
 $ yarn
 ```
 
-<br>
+# Gulp
 
-## Gulp
-
-### Dev
+## Dev
 
 ```bash
 $ gulp
 ```
 
-### Production
+## Production
 
 ```bash
 $ gulp --env production
 ```
-
----
 
 # 參考 Vue core 的 tsconfig.json
 
